@@ -4,7 +4,7 @@ import { useUserStore } from "@/stores";
 
 // 配置项目API域名
 // 最新调整：在本地 .env 文件配置你的后端API地址
-export const baseURL =https://www.118100.xyz ;
+export const baseURL = https://www.118100.xyz ;
 
 // 创建 axios 实例
 export const instance = axios.create({
